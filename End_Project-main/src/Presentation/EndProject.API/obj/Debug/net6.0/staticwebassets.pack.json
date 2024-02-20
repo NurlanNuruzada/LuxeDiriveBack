@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\enelry\\Desktop\\End_Project\\src\\Presentation\\EndProject.API\\wwwroot\\templates\\Campaigns.html",
+      "PackagePath": "staticwebassets\\templates\\Campaigns.html"
+    },
+    {
+      "Id": "C:\\Users\\enelry\\Desktop\\End_Project\\src\\Presentation\\EndProject.API\\wwwroot\\templates\\Cancel.html",
+      "PackagePath": "staticwebassets\\templates\\Cancel.html"
+    },
+    {
+      "Id": "C:\\Users\\enelry\\Desktop\\End_Project\\src\\Presentation\\EndProject.API\\wwwroot\\templates\\HappyBirthday.html",
+      "PackagePath": "staticwebassets\\templates\\HappyBirthday.html"
+    },
+    {
+      "Id": "C:\\Users\\enelry\\Desktop\\End_Project\\src\\Presentation\\EndProject.API\\wwwroot\\templates\\TripAddUser.html",
+      "PackagePath": "staticwebassets\\templates\\TripAddUser.html"
+    },
+    {
+      "Id": "C:\\Users\\enelry\\Desktop\\End_Project\\src\\Presentation\\EndProject.API\\wwwroot\\templates\\UserEmailMessage.html",
+      "PackagePath": "staticwebassets\\templates\\UserEmailMessage.html"
+    },
+    {
+      "Id": "C:\\Users\\enelry\\Desktop\\End_Project\\src\\Presentation\\EndProject.API\\wwwroot\\templates\\confirm.html",
+      "PackagePath": "staticwebassets\\templates\\confirm.html"
+    },
+    {
+      "Id": "C:\\Users\\enelry\\Desktop\\End_Project\\src\\Presentation\\EndProject.API\\wwwroot\\templates\\newReservation.html",
+      "PackagePath": "staticwebassets\\templates\\newReservation.html"
+    },
+    {
+      "Id": "C:\\Users\\enelry\\Desktop\\End_Project\\src\\Presentation\\EndProject.API\\wwwroot\\templates\\verify.html",
+      "PackagePath": "staticwebassets\\templates\\verify.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EndProject.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EndProject.API.props",
+      "PackagePath": "build\\EndProject.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EndProject.API.props",
+      "PackagePath": "buildMultiTargeting\\EndProject.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EndProject.API.props",
+      "PackagePath": "buildTransitive\\EndProject.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
